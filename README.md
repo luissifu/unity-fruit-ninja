@@ -7,3 +7,6 @@ For the full experience you can also check this repos:
 * [Android App](github.com/fercreek/AndroidWithPebble)
 * [Desktop Interface](github.com/luissifu/pebble-desktop)
 * **Demo App**
+
+Contributors
+* [Fer repo](github.com/fercreek)
